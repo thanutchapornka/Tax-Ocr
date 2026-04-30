@@ -1,0 +1,6 @@
+{
+  "name": "Tax Receipt OCR to ERP",
+  "description": "ระบบคีย์ข้อมูลภาษี สกัดข้อมูลจากภาพใบเสร็จเป็น format ข้อมูลพร้อม export เป็น CSV หรือ Copy ใส่ Google Sheets สำหรับนำเข้า ERP",
+  "requestFramePermissions": [],
+  "majorCapabilities": []
+}
